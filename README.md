@@ -1,4 +1,4 @@
-# Beebots contest details
+# Mystery NFT contest details
 - $50k USDC main award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://c4-beebots.netlify.app/)
